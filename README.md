@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a package sorting function for a robotic arm in Thoughtful’s automation factory. The function determines where to dispatch packages based on their **volume** and **mass** according to predefined rules.
+This project implements a package sorting function for a robotic arm. The function determines where to dispatch packages based on their **volume** and **mass** according to predefined rules.
 
 ## Sorting Rules
 
@@ -25,33 +25,18 @@ Packages are categorized as follows:
 │── README.md         # Project documentation
 │── sort.py           # Python function that classifies packages
 │── pseudocode.py     # High-level breakdown of the logic
-│── tests.py          # Unit tests to validate sorting logic
+
 ```
 
 ## How to Use
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/package-sorting.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd package-sorting
-   ```
-3. Run the sorting function inside `sort.py` with test inputs:
-   ```python
-   from sort import sort
-
-   print(sort(100, 50, 20, 10))  # Example usage
+   git clone 
    ```
 
-## Running Tests
+2. Run `sort.py` 
 
-To ensure the function works correctly, run the tests:
-
-```sh
-python tests.py
-```
 
 ## Notes
 
