@@ -21,7 +21,7 @@ Packages are categorized as follows:
 ## File Structure
 
 ```
-/package-sorting
+
 │── README.md         # Project documentation
 │── sort.py           # Python function that classifies packages
 │── pseudocode.py     # High-level breakdown of the logic
