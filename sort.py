@@ -12,7 +12,7 @@ def sort(width, height, length, mass):
     if is_heavy and is_bulky:
         return "rejected"
     elif is_bulky or is_heavy:
-        return "special"t
+        return "special"
     else:
         return "standard"
     

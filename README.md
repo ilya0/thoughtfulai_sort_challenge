@@ -30,11 +30,7 @@ Packages are categorized as follows:
 
 ## How to Use
 
-1. Clone the repository:
-   ```sh
-   git clone 
-   ```
-
+1. Clone the repository
 2. Run `sort.py` 
 
 
